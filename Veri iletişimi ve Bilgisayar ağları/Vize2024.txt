@@ -1,0 +1,4 @@
+1. Bir avmde gece mahsur kaldın. Güvenlik kameralrı yapay zeka destekli. Hırsız gibi görümmeden güvenliklerle yapay zeka ile nasıl iletişime geöersün
+2.googledan bir sorgu yapıyorsun. başka hiçbir uygulama falan açık değil. ama yine de baktığında sorgunun iletilmesinden önce ve cevap geldkten sonra bilgisayarına bir sürü faklı paket girmiş çıkmış. bunlar ne olabilir ve neden
+3.2. Soru aen işe girdin sana etrafı tanıdan adam arkadaş bi gün fabrika uygulamasını yaparken ön yüzdeki hata için tüm osi değiştirdi bi gün sor anlatsın demiş sence neden değiştirdi aklına takıldı bide neden değiştirmeseydi
+4.denizlideki akbil dolum merkezlerini birbirine bağlamak istiosun a)hangi topoloji b)hangi kablo c)i-s mu yoksa p2p mi d)paket anahtarlama mı devre anahtarlama mı
